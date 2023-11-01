@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GovNotifyPOC", "GovNotifyPOC.csproj", "{C694188A-72F9-4298-90A6-D6333A8C6371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C694188A-72F9-4298-90A6-D6333A8C6371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C694188A-72F9-4298-90A6-D6333A8C6371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C694188A-72F9-4298-90A6-D6333A8C6371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C694188A-72F9-4298-90A6-D6333A8C6371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE6E9B6-67AF-44F3-842E-7A1C69B1B67B}
+	EndGlobalSection
+EndGlobal
